@@ -1,1 +1,1 @@
-Jenkins GitHub Integration Practice
+Jenkins automatic build test
