@@ -1,1 +1,1 @@
-# jenkins-practice
+Jenkins GitHub Integration Practice
